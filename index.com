@@ -204,7 +204,7 @@
 
             <div class="card">
                 <div class="foto">
-    <img src="images (31).jpeg" alt="Foto Markonah">
+    <img src="1795499246360731199037907652727.jpg" alt="Foto mesi">
                     </div>
                 <h3>mesi</h3>
                 <p><b>NIS:</b> 001</p>
